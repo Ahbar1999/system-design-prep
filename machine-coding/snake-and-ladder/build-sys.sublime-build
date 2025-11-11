@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "bash -c chmod +x ./script.sh"
+}

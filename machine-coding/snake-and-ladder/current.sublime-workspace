@@ -1,0 +1,3418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"any",
+				"any_of"
+			],
+			[
+				"prime",
+				"prime_sieve"
+			],
+			[
+				"printin",
+				"print_int"
+			],
+			[
+				"loop",
+				"looprev"
+			],
+			[
+				"printve",
+				"print_int_2dvec"
+			],
+			[
+				"printn",
+				"print_int"
+			],
+			[
+				"priem",
+				"prime_sieve"
+			],
+			[
+				"prinin",
+				"print_int_2dvec"
+			],
+			[
+				"min",
+				"minmisplaced"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"find",
+				"find_first_of"
+			],
+			[
+				"fin",
+				"find_first_of"
+			],
+			[
+				"adj",
+				"adjacent_find"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"printi",
+				"print_int_vec"
+			],
+			[
+				"back",
+				"emplace_back"
+			],
+			[
+				"order",
+				"order_of_key"
+			],
+			[
+				"large",
+				"largest_odd"
+			],
+			[
+				"rever",
+				"reverse_copy"
+			],
+			[
+				"pritnin",
+				"print_int"
+			],
+			[
+				"neg",
+				"neg_pp"
+			],
+			[
+				"print_in",
+				"print_int_2dvec"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"mill",
+				"milliseconds"
+			],
+			[
+				"space",
+				"space_left"
+			],
+			[
+				"spa",
+				"space_left"
+			],
+			[
+				"count",
+				"countDivisors"
+			],
+			[
+				"start",
+				"starts_last"
+			],
+			[
+				"dumm",
+				"dummy_payload_size"
+			],
+			[
+				"timeout",
+				"timeout_duration"
+			],
+			[
+				"dura",
+				"duration_cast"
+			],
+			[
+				"noti",
+				"notify_one"
+			],
+			[
+				"vehi",
+				"vehicles_on_bridge"
+			],
+			[
+				"NORTH",
+				"DIR_NORTH"
+			],
+			[
+				"ve",
+				"vehicles_on_bridge"
+			],
+			[
+				"condi",
+				"condition_variable"
+			],
+			[
+				"unorer",
+				"unordered_set"
+			],
+			[
+				"code",
+				"codeforces/"
+			],
+			[
+				"gpi",
+				"GPIOC"
+			],
+			[
+				"P",
+				"Peripherals"
+			],
+			[
+				"stm32f0",
+				"stm32f0x1"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"types",
+				"_types.h>"
+			],
+			[
+				"boo",
+				"boost_1_82_0/"
+			],
+			[
+				"cur",
+				"curr_word"
+			],
+			[
+				"var",
+				"var_map"
+			],
+			[
+				"pq",
+				"pq_size"
+			],
+			[
+				"build_",
+				"build_dictionary"
+			],
+			[
+				"unorder",
+				"unordered_set"
+			],
+			[
+				"blue",
+				"blue2"
+			],
+			[
+				"white",
+				"white3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "#include"
+					},
+					"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert_snippet",
+					{
+						"contents": "<$0>"
+					},
+					"AQAAAAkAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "iosteram"
+					},
+					"CAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					4,
+					"left_delete",
+					null,
+					"BAAAABEAAAAAAAAAEQAAAAAAAAABAAAAbRAAAAAAAAAAEAAAAAAAAAABAAAAYQ8AAAAAAAAADwAAAAAAAAABAAAAcg4AAAAAAAAADgAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ream"
+					},
+					"BAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n\nint"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " amain"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "main"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							]
+						]
+					},
+					"GQAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAABAAAAbh0AAAAAAAAAHQAAAAAAAAABAAAAaRwAAAAAAAAAHAAAAAAAAAABAAAAYRsAAAAAAAAAGwAAAAAAAAABAAAAbRoAAAAAAAAAGgAAAAAAAAABAAAAYRoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACIAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAACMAAAAAAAAAIwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAgFZA"
+				],
+				[
+					29,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n"
+								}
+							]
+						]
+					},
+					"AgAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"reindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "c"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "std::cout"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " <"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "\"$0\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "<"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " \"Hello"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAlAAAAAAAAACUAAAAAAAAAAQAAAGMlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADMAAAAAAAAAAAAAADEAAAAAAAAAMQAAAAAAAAABAAAAIjAAAAAAAAAAMAAAAAAAAAABAAAAIDAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					57,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "O"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Wor"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Wro"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "orld!\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " <<"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " std::endl;"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"IgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOQAAAAAAAAA5AAAAAAAAAAEAAABPOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAAEAAAByOwAAAAAAAAA7AAAAAAAAAAEAAABvOgAAAAAAAAA6AAAAAAAAAAEAAABXOQAAAAAAAAA5AAAAAAAAAAEAAAAiOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAOwAAAAAAAAA7AAAAAAAAAAEAAABvOgAAAAAAAAA6AAAAAAAAAAEAAAByOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAwHhA"
+				],
+				[
+					81,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\nclass"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Player"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "P"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EQAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAJAAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAACMAAAAAAAAAIwAAAAAAAAABAAAAUA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nclass"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Board"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nclass"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BwAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " D"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "DIce"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "iec"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "ices"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA9AAAAAAAAAD0AAAAAAAAAAQAAAEQ8AAAAAAAAADwAAAAAAAAAAQAAACA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAD8AAAAAAAAAPwAAAAAAAAABAAAAZT4AAAAAAAAAPgAAAAAAAAABAAAAYz4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAABAAAAYz8AAAAAAAAAPwAAAAAAAAABAAAAZT4AAAAAAAAAPgAAAAAAAAABAAAAaT0AAAAAAAAAPQAAAAAAAAABAAAAST0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAEAAABzQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARgAAAAAAAAAAAAAAQwAAAAAAAABDAAAAAAAAAAEAAAAJ",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"reindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "public"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABGAAAAAAAAAEYAAAAAAAAAAQAAAAlFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					144,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAAEQAAAAAAAAARAAAAAAAAAAGAAAAcHVibGlj",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "₹\t"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\tpublic"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " :"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\tDire"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "c"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GwAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABEAAAAAAAAAEQAAAAAAAAAAQAAAAlDAAAAAAAAAEMAAAAAAAAAAwAAAOKCuUIAAAAAAAAAQgAAAAAAAAABAAAACkIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAASwAAAAAAAABLAAAAAAAAAAEAAAA6SgAAAAAAAABKAAAAAAAAAAEAAAAgSgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABRAAAAAAAAAFEAAAAAAAAAAQAAAGVQAAAAAAAAAFAAAAAAAAAAAQAAAHJQAAAAAAAAAFEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_unindent",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAgFZA"
+				],
+				[
+					161,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAEwAAAAAAAAATAAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					173,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "e"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVQAAAAAAAAAAAAAAVAAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFgAAAAAAAAAAAAAAFUAAAAAAAAAVQAAAAAAAAABAAAACVUAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "int"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BgAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAVgAAAAAAAABWAAAAAAAAAAIAAAAJCVIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\nroll_"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CgAAAF8AAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABjAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAAQAAAAliAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZgAAAAAAAABmAAAAAAAAAAEAAABfZgAAAAAAAABoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAgE9A"
+				],
+				[
+					202,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BgAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABrAAAAAAAAAAAAAABqAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbgAAAAAAAAAAAAAAawAAAAAAAABrAAAAAAAAAAEAAAAJawAAAAAAAABtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					208,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "r"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AwAAAGIAAAAAAAAAYgAAAAAAAAABAAAAcmoAAAAAAAAAagAAAAAAAAACAAAACQliAAAAAAAAAGMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAEJA"
+				],
+				[
+					212,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "R"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAGIAAAAAAAAAYgAAAAAAAAABAAAAcmIAAAAAAAAAYwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAG8AAAAAAAAAbwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAEJA"
+				],
+				[
+					225,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					226,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "int"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					261,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"reindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "//"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " add"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " logic"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " to"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " roll"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " all"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " dices"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " and"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " cl"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "aclu"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "lculate"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " score"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"PgAAAG8AAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAACNAAAAAAAAAI4AAAAAAAAAAAAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAlwAAAAAAAACXAAAAAAAAAAEAAABslwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACaAAAAAAAAAJoAAAAAAAAAAQAAAHWZAAAAAAAAAJkAAAAAAAAAAQAAAGyYAAAAAAAAAJgAAAAAAAAAAQAAAGOYAAAAAAAAAJkAAAAAAAAAAAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACbAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAACeAAAAAAAAAJ8AAAAAAAAAAAAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAKUAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					264,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAAJYAAAAAAAAAlgAAAAAAAAAQAAAAY2FsY3VsYXRlIHNjb3JlIA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "u"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": " use"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " a"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " l"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "sco"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DwAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlQAAAAAAAACVAAAAAAAAAAEAAAB1lQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJwAAAAAAAAAnAAAAAAAAAABAAAAbJsAAAAAAAAAmwAAAAAAAAABAAAAIJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					276,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "hi"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AwAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAACeAAAAAAAAAJ8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAAJsAAAAAAAAAmwAAAAAAAAADAAAAc2hp",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					285,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "s"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					290,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ring"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " function"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DQAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					297,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " to"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " calculate"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " final"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " moves"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GQAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMEAAAAAAAAAAAAAAMEAAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAADDAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAxQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"by": "stops",
+							"empty_line": true,
+							"extend": true,
+							"forward": true,
+							"punct_end": true,
+							"word_end": true
+						},
+						"motion_clip_to_line": true,
+						"motion_command": "move",
+						"motion_inclusive": true,
+						"motion_mode": 0
+					},
+					"AQAAALoAAAAAAAAAugAAAAAAAAAFAAAAZmluYWw",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					304,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAALoAAAAAAAAAugAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					322,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAMMAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					324,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAMMAAAAAAAAAwwAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					332,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nreturn"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " 0;"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CgAAAL8AAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAADDAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAMoAAAAAAAAAywAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					347,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "pr9o"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "ivate"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EgAAAM8AAAAAAAAA0QAAAAAAAAAAAAAA0AAAAAAAAADQAAAAAAAAAAEAAAAJ0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADTAAAAAAAAANMAAAAAAAAAAQAAAG/SAAAAAAAAANIAAAAAAAAAAQAAADnSAAAAAAAAANMAAAAAAAAAAAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADYAAAAAAAAAAAAAADXAAAAAAAAANcAAAAAAAAAAQAAACDXAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA2QAAAAAAAAAAAAAA2QAAAAAAAADbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAGJA"
+				],
+				[
+					358,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "\titn"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "nt"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "nt"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "nt"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " die;"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADeAAAAAAAAAN4AAAAAAAAAAQAAACDdAAAAAAAAAN0AAAAAAAAAAQAAAG7dAAAAAAAAAN4AAAAAAAAAAAAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3gAAAAAAAADeAAAAAAAAAAEAAAB03QAAAAAAAADdAAAAAAAAAAEAAABu3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAN8AAAAAAAAAAAAAAN4AAAAAAAAA3gAAAAAAAAABAAAAdN0AAAAAAAAA3QAAAAAAAAABAAAAbtwAAAAAAAAA3AAAAAAAAAABAAAAdNwAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAN8AAAAAAAAAAAAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4gAAAAAAAADiAAAAAAAAAAEAAAA7",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					361,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					369,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n//"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " number"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " of"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " die"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EQAAANkAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAADiAAAAAAAAAOMAAAAAAAAAAAAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAADlAAAAAAAAAOYAAAAAAAAAAAAAAOYAAAAAAAAA5wAAAAAAAAAAAAAA5wAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOkAAAAAAAAAAAAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAwFhA"
+				],
+				[
+					380,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"reindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "this->"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "die"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DwAAAFsAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABjAAAAAAAAAGMAAAAAAAAAAQAAACBjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAYGVA"
+				],
+				[
+					385,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "coutn"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BgAAAFYAAAAAAAAAVgAAAAAAAAABAAAAblYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					389,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "nt"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BAAAAFoAAAAAAAAAWgAAAAAAAAABAAAAblkAAAAAAAAAWQAAAAAAAAABAAAAdFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					394,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " count;"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BwAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					419,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "rank"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "d"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " %"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DAAAAOIAAAAAAAAA4gAAAAAAAAABAAAAMOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOUAAAAAAAAAAAAAAOUAAAAAAAAA5gAAAAAAAAAAAAAA5QAAAAAAAADlAAAAAAAAAAEAAABr5QAAAAAAAADmAAAAAAAAAAAAAADmAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA6QAAAAAAAADqAAAAAAAAAAAAAADqAAAAAAAAAOsAAAAAAAAAAAAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wAAAAAAAADjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					432,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "this->dies"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CwAAAOsAAAAAAAAA6wAAAAAAAAABAAAAbusAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADtAAAAAAAAAAAAAADtAAAAAAAAAO4AAAAAAAAAAAAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAADzAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAGtA"
+				],
+				[
+					435,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAPQAAAAAAAAA9AAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					443,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAAOsAAAAAAAAA6wAAAAAAAAAJAAAAdGhpcy0+ZGll",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					445,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "6"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/User/.bash.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/.bash.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp-sf-cmake-build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/.bash.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"prefersy",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"coor",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorts",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"lsp cla",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"termina",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rust-",
+				"Preferences: LSP-rust-analyzer Settings"
+			],
+			[
+				"lsp prefere",
+				"Preferences: LSP Settings"
+			],
+			[
+				"togg",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"toggl",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"enabl",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp to",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lspgl",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lspe",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"prelsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"lspset",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp setting",
+				"Preferences: LSP Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"thme",
+				"UI: Select Theme"
+			],
+			[
+				"colosub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"toggle inla",
+				"LSP: Toggle Inlay Hints"
+			],
+			[
+				"lsp settin",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp clan",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspcla",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"terminus ke",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"prefre",
+				"Preferences: Terminus Settings"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ahbar/Desktop/system-design-prep",
+		"/Users/ahbar/Desktop/system-design-prep/machine-coding",
+		"/Users/ahbar/Desktop/system-design-prep/machine-coding/snake-and-ladder"
+	],
+	"file_history":
+	[
+		"/Users/ahbar/Desktop/system-design-prep/machine-coding/snake-and-ladder/script.sh",
+		"/Users/ahbar/Desktop/system-design-prep/machine-coding/snake-and-ladder/build-sys.sublime-build",
+		"/Users/ahbar/Library/Application Support/Sublime Text/Packages/User/proj-system-design.sublime-build",
+		"/Users/ahbar/Desktop/problem-solving/output.txt",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/current.cpp",
+		"/Users/ahbar/Downloads/citation-346701407.bib",
+		"/Users/ahbar/Downloads/mathwork oa/ml_moel/lang1.cpp",
+		"/Users/ahbar/Downloads/mathwork oa/task_completion/lang1.cpp",
+		"/Users/ahbar/Downloads/mathwork oa/bst/lang1.cpp",
+		"/Users/ahbar/Downloads/S2773064622000160.bib",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/Vision.framework/Versions/A/Headers/VNCoreMLRequest.h",
+		"/Users/ahbar/Downloads/zig-aarch64-macos-0.14.1/lib/libc/include/generic-musl/sys/mtio.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_string.h",
+		"/Users/ahbar/Desktop/problem-solving/src/leetcode-premium/2534.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/template.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/Terminus",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__fwd/string.h",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1600/1389B.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cf_sol_gen",
+		"/Users/ahbar/Desktop/problem-solving/script.sh",
+		"/Users/ahbar/Desktop/problem-solving/src/main.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/current2.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/submit_current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cf_sol_gen.sh",
+		"/Users/ahbar/Desktop/problem-solving/src/cf_sol_gen.py",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1500/current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/round-1029-div3/2117E.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1500/Terminus",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1400/current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1400/Terminus",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1300/current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1200/current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1100/current.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1000/current.cpp",
+		"/Users/ahbar/Library/Application Support/Sublime Text/Packages/User/cpp-sf-cmake-build.sublime-build",
+		"/Users/ahbar/Downloads/client_H.c",
+		"/Users/ahbar/Library/Containers/net.whatsapp.WhatsApp/Data/tmp/documents/4C2AB9D7-6DC8-4663-88BA-869DDC339C4F/server_H.c",
+		"/Users/ahbar/Library/Containers/net.whatsapp.WhatsApp/Data/tmp/documents/5431A734-52D1-44EF-ADE3-AAFBA1AAEE74/client_H.c",
+		"/Users/ahbar/Downloads/Assignment 2 code/Assignment2_Q3.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1000/1859B.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1000/cf902-Div1-A.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1000/1913B.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/cp31-1200/1914D.cpp",
+		"/Users/ahbar/Downloads/tcp2.csv",
+		"/Users/ahbar/Desktop/Assignment 4 Systems Lab/src/client.cpp",
+		"/Users/ahbar/Desktop/Assignment 4 Systems Lab/src/server.cpp",
+		"/Users/ahbar/Desktop/Assignment 4 Systems Lab/script.sh",
+		"/Users/ahbar/Desktop/Assignment 4 Systems Lab/src/main.cpp",
+		"/Users/ahbar/Desktop/Assignment 2 Systems Lab/src/main2.cpp",
+		"/Users/ahbar/Desktop/Assignment 2 Systems Lab/src/main3.cpp",
+		"/Users/ahbar/Desktop/Assignment 2 Systems Lab/src/main.cpp",
+		"/Users/ahbar/Desktop/Assignment 2 Systems Lab/script.sh",
+		"/Users/ahbar/Desktop/Assignment 2 Systems Lab/main.cpp",
+		"/Applications/Python 3.13/Install Certificates.command",
+		"/Users/ahbar/Desktop/Print.pdf",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/prac/round-667-div3-b.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/prac/round-923-div3-D.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/range_updates_and_sum.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/prac/round-918-div4-e.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/main.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/prac/round-925-div3-D.cpp",
+		"/Users/ahbar/Desktop/ARM-baremetal/rust_impl/eeprom/Cargo.toml",
+		"/Users/ahbar/Desktop/ARM-baremetal/rust_impl/eeprom/src/lib.rs",
+		"/Users/ahbar/Desktop/ARM-baremetal/main.c",
+		"/Users/ahbar/Desktop/ARM-baremetal/stm32f0_startup.c",
+		"/Users/ahbar/Desktop/ARM-baremetal/rust_impl/eeprom/src/eeprom_driver.rs",
+		"/Users/ahbar/Desktop/ARM-baremetal/rust_impl/cbindgen.toml",
+		"/Users/ahbar/Desktop/ARM-baremetal/rust_impl/eeprom/src/main.rs",
+		"/Users/ahbar/Desktop/ARM-baremetal/eeprom/eeprom_driver.c",
+		"/Users/ahbar/Desktop/ARM-baremetal/eeprom/eeprom_driver.h",
+		"/Users/ahbar/Desktop/ARM-baremetal/uart/usart.c",
+		"/Users/ahbar/Desktop/ARM-baremetal/uart/usart.h",
+		"/Users/ahbar/Desktop/problem-solving/src/practice/code.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/formal.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/main.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/output.cnf",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/polynomial_queries.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/script.sh",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/CMakeLists.txt",
+		"/Users/ahbar/Library/Application Support/Sublime Text/Packages/User/build.sh",
+		"/Users/ahbar/Desktop/range_query_and_updates.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/hotel_queries.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/strings/kmp.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/cpp_helpers/binstring_to_int.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/main.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/CMakeLists.txt",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/hotel_queries.py",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/strings/kmp.py",
+		"/Volumes/STORE/labCS513/week5assignment/huffman.c",
+		"/Volumes/STORE/labCS513/week5assignment/input.txt",
+		"/Volumes/STORE/labCS513/week4assignment/priority_queue.c",
+		"/Volumes/STORE/labCS513/week4assignment/input.txt",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-971-div4/problem-c.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/CMakeLists.txt",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-970-div3/template.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-970-div3/problem-d.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-970-div3/problem-c.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-970-div3/problem-b.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/codeforces/codeforces-970-div3/problem-a.cpp",
+		"/Users/ahbar/Desktop/p.py",
+		"/Users/ahbar/Desktop/test.txt",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/number theory/modular_expo.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/graphs/tarjan-scc.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/strings/z-function.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/strings/string_hashing.cpp",
+		"/Users/ahbar/Desktop/CSES-ProblemSet/src/problems/cses/josephus_queries.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/graphs/bellman_ford.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/graphs/dijkstra.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/trees/tree.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/u-grouping.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/main.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/t-permutations.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/for_range_queries/segment_tree.cpp",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/include/segment_tree.h",
+		"/Users/ahbar/Desktop/DSAUtils/src/dsa/dsu/dsu.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/s-digit-sum.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/r-walk.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/p-indie-set.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/q-flowers.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/template.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/o-matching.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/n-slimes.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/m-candies.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/l-deque.cpp",
+		"/Users/ahbar/Desktop/problem-solving/build/main",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/k-stones.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/j-sushi.cpp",
+		"/Users/ahbar/Desktop/problem-solving/src/atcoder-dp/solutions/template.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/ahbar/Desktop/system-design-prep/machine-coding/snake-and-ladder/main.cpp",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 120.0
+	},
+	"output.diagnostics":
+	{
+		"height": 87.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"buid-sys.sublime-build",
+			"1234"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/ShellScript/ShellScript.sublime-build",
+	"project": "current.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"p-",
+				"src/atcoder-dp/solutions/p-indie-set.cpp"
+			],
+			[
+				"mainc",
+				"src/atcoder-dp/main.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 501.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
