@@ -68,17 +68,19 @@ public:
 		}
 
 		// populate jump positions
-		// for (int i=0; i < board_size * board_size; i++) {
-		// 	if (i % 4) {	// this should be random 
-		// 		if (rand() % 2) {
-		// 			// snake
-		// 			jumps[i] = rand() % i;  
-		// 		} else {
-		// 			// ladder 
-		// 			jumps[i] = board_size * board_size - (rand() % i);
-		// 		}
-		// 	}	
-		// }
+		for (int i= 1; i < board_size * board_size; i++) {
+			if (i % 4 == 0) {	// this should be random 
+				if (rand() % 2) {
+					// snake
+					jumps[i] = rand() % i;
+					std::cout << "Snake from " << i << " to " << jumps[i] << std::endl;
+				} else {
+					// ladder 
+					jumps[i] = board_size * board_size - (rand() % i);
+					std::cout << "Ladder from " << i << " to " << jumps[i] << std::endl;
+				}
+			}	
+		}
 
 		std::cout << "Game has been constructed" << std::endl;
 	}
